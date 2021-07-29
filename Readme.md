@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Matvey Avdeev](https://up.htmlacademy.ru/ecmascript/15/user/1468275).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/id144641).
 
 ---
 
